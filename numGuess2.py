@@ -40,7 +40,7 @@ def bigger2Smaller(num_one, num_two):
 
 
 print("Time to play a game.....")
-print("Think of any integer and store it in your mind")
+print("Think of any integer and store it in your mind\n")
 
 if NumGuess():
     print("I WIN!!!")
