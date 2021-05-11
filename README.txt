@@ -1,0 +1,1 @@
+This is just a simple and dumb repository of basic python scripts, mainly meant for practice.
