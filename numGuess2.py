@@ -36,7 +36,7 @@ def bigger2Smaller(num_one, num_two):
     elif num_one < num_two:
         return num_two, num_one
     else:
-        return None
+        return num_one, num_two
 
 
 print("Time to play a game.....")
