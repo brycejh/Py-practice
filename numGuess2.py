@@ -1,4 +1,4 @@
-def NumGuess(numTop=200, numBot=-200):
+def NumGuess(numTop=2 ** 16, numBot=-(2 ** 16)):
     difference = difCalc(numTop, numBot)
     half = difference // 2
     guess = numBot + half
